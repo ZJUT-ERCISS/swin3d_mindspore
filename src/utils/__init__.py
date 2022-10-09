@@ -14,9 +14,9 @@
 # ============================================================================
 """Init MindSpore Vision Video utils."""
 
+from .callbacks import *
 from .check_param import *
 from .class_factory import *
 from .config import *
-from .init_weight import *
 from .mask import *
 from .windows import *
